@@ -1,0 +1,15 @@
+p {
+color: #54565B;
+}
+*{
+	font-family: 'montserrat';
+}	
+.left {
+	text-align:left;
+}
+.mainheader {
+	background:#222222;
+}
+.orange {
+	background:#F36D21;
+}
